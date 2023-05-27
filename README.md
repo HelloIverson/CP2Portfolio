@@ -4,4 +4,4 @@
 
 Certified on test 840
 
-### (https://github.com/CalvinWebb/A1GroupProject "Cellular Evolution Simulator")
+### [Cellular Evolution Simulator](https://github.com/CalvinWebb/A1GroupProject "Cellular Evolution Simulator")
